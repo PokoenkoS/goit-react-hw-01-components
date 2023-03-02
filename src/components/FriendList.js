@@ -13,7 +13,6 @@ return (
         name={friend.name}
         isOnline={friend.isOnline}/>
 
-    
 )
 )}
 </ul>
