@@ -6,6 +6,7 @@ display: flex;
 flex-direction: column;
 align-items: center;
 box-shadow: 0px 0px 10px black;
+border-radius: 10px;
 `;
 
 export const StatList = styled.ul`

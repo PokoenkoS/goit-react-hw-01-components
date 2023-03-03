@@ -7,4 +7,5 @@ border-collapse: collapse;
 border: 1px solid #dddddd;
 margin-left: auto;
 margin-right: auto;
+
 `;
